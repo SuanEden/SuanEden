@@ -1,9 +1,9 @@
-# 👋 Olá, eu sou o Suan Eden!
+# 👋 Bem-vindo ao meu perfil!
 
-💻 Desenvolvedor focado em **C**, **Java** e **Python**, explorando sempre o melhor do **VS Code** para criar projetos que resolvem problemas reais.  
-Curioso por natureza, sempre buscando entender o *porquê* das coisas — de algoritmos a cafés ☕.
+💻 Desenvolvedor focado em **C**, **Java** e **Python**, criando sistemas rápidos e robustos usando **VS Code**.  
+Sempre buscando entender o código a fundo, enfrentar desafios e entregar resultados de qualidade.
 
-🚀 Apaixonado por tecnologia, desafios e aquela sensação boa de ver o código rodando sem bugs.
+🚀 Tecnologia é meu combustível para resolver problemas reais.
 
 ---
 
@@ -16,10 +16,28 @@ Curioso por natureza, sempre buscando entender o *porquê* das coisas — de alg
 ---
 
 ## 📈 GitHub Stats
-![Suan Eden's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SuanEden&show_icons=true&theme=dark)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SuanEden&theme=dark)](https://git.io/streak-stats)
 
 ---
 
-> 🧭 “Código é mais que lógica; é a arte de tornar ideias vivas.”  
->
-> — Suan Eden
+## 🔥 GitHub Streak
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SuanEden)](https://git.io/streak-stats)
+
+---
+
+## 👁 Contador de visitas
+![Visitors](https://komarev.com/ghpvc/?username=SuanEden)
+
+---
+
+## 💡 Skills em tabela
+
+| Linguagens       | Frameworks      | Ferramentas     |
+|------------------|-----------------|-----------------|
+| C, Java, Python  | Spring, Django  | VS Code, Git    |
+
+---
+## 🎵 Música atual
+[![Spotify - Gwyn, Lord of Cinder](https://img.shields.io/badge/Spotify-Gwyn,_Lord_of_Cinder-green?logo=spotify&style=for-the-badge)](https://open.spotify.com/intl-pt/track/0g9LJzvd7Lu6qUlXIhTXsI?si=2f72817c1a184f18)
+
+---
