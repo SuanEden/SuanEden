@@ -16,7 +16,7 @@ Curioso por natureza, sempre buscando entender o *porquê* das coisas — de alg
 ---
 
 ## 📈 GitHub Stats
-![Suan Eden's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=dark)
+![Suan Eden's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SuanEden&show_icons=true&theme=dark)
 
 ---
 
