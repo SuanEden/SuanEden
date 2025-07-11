@@ -11,7 +11,7 @@ Curioso por natureza, sempre buscando entender o *porquê* das coisas — de alg
 ![C](https://img.shields.io/badge/-C-333?style=flat&logo=c)
 ![Java](https://img.shields.io/badge/-Java-333?style=flat&logo=java)
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
-![VS Code](https://img.shields.io/badge/-VS_Code-333?style=flat&logo=visual-studio-code)
+![VS Code](https://img.shields.io/badge/-VS%20Code-333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 ---
 
