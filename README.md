@@ -18,6 +18,8 @@ Sempre buscando entender o código a fundo, enfrentar desafios e entregar result
 ## 📈 GitHub Stats
 ![Suan Eden's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SuanEden&show_icons=true&theme=dark)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuanEden&layout=compact&theme=dark)
+
 ---
 
 ## 👁 Contador de visitas
